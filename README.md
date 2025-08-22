@@ -42,12 +42,13 @@ Platform-specific instructions and common setup are in the documentation file: `
 ### Quick start
 
 1. Install Node (recommended via nvm). We recommend Node v22 for best compatibility.
-2. Install dependencies and run the dev server using yarn (preferred):
+2. Install dependencies and run the dev server using pnpm (preferred):
 
 ```bash
-# using yarn
-yarn install
-yarn dev
+# using pnpm
+pnpm install
+pnpm dev
+
 ```
 
 Open http://localhost:3000
@@ -64,7 +65,7 @@ Open http://localhost:3000
 ## Contributors
 
 - Wechuli Simiyu — https://github.com/wechulisimiyu
-- Denis Kidake — (please add your GitHub account here)
+- Denis Kidake — https://github.com/Kids741
 
 ---
 
